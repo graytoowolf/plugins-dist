@@ -63,6 +63,21 @@
       }
     },
     {
+      "name": "cscj",
+      "version": "0.1.0",
+      "title": "cscj",
+      "description": "cscj",
+      "author": "cscj",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/plugin-template-master_0.1.0.zip",
+        "shasum": "c80b0a48bfa96e236f3a3307b3e23ce2df779f3713e6a9d3a04fd845af88c669"
+      }
+    },
+    {
       "name": "disable-registration",
       "version": "1.0.3",
       "title": "关闭注册功能",
@@ -411,6 +426,21 @@
         "type": "zip",
         "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/password-algorithm-transition_2.2.1.zip",
         "shasum": "d80ace621393f0e21be22269818590c87187ce018d4aada8279b73ea44df5bfa"
+      }
+    },
+    {
+      "name": "cscj",
+      "version": "0.1.0",
+      "title": "cscj",
+      "description": "cscj",
+      "author": "cscj",
+      "require": {
+        "blessing-skin-server": "^5.0.0"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/plugin-template-master_0.1.0.zip",
+        "shasum": "98cea5034c96aa43a1a8e2a7e3f04a304b80db20450e1031174168a94448bd40"
       }
     },
     {
