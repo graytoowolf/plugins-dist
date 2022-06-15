@@ -58,7 +58,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/bing-api_1.0.0.zip",
+        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/bing-api_1.0.0.zip",
         "shasum": "929e8667c03cd793b63856e42cb576a8452ac53a78894a636f0af377cba05dc6"
       }
     },
@@ -75,21 +75,6 @@
         "type": "zip",
         "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/config-generator_3.2.2.zip",
         "shasum": "4097af14dd9ee914419f933103ec6f815373591484065576dc0d147a9a443e39"
-      }
-    },
-    {
-      "name": "cscj",
-      "version": "0.1.0",
-      "title": "cscj",
-      "description": "cscj",
-      "author": "cscj",
-      "require": {
-        "blessing-skin-server": "^5.0.0"
-      },
-      "dist": {
-        "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/plugin-template-master_0.1.0.zip",
-        "shasum": "98cea5034c96aa43a1a8e2a7e3f04a304b80db20450e1031174168a94448bd40"
       }
     },
     {
