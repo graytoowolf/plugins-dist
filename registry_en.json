@@ -49,7 +49,7 @@
     },
     {
       "name": "bing-api",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "title": "获取bing今日美图",
       "description": "获取bing今日美图",
       "author": "graywolf",
@@ -58,8 +58,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/bing-api_0.1.0.zip",
-        "shasum": "5dc255487c56bcca48d2e68e69825ba68f609a5a653f90cf78b0231a3aed71ee"
+        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/bing-api_1.0.0.zip",
+        "shasum": "929e8667c03cd793b63856e42cb576a8452ac53a78894a636f0af377cba05dc6"
       }
     },
     {
