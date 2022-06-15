@@ -594,6 +594,21 @@
       }
     },
     {
+      "name": "texture-uploaded",
+      "version": "1.0.0",
+      "title": "皮肤上传自动提交百度平台",
+      "description": "皮肤上传自动提交百度平台",
+      "author": "graywolf",
+      "require": {
+        "blessing-skin-server": "^6"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/texture-uploaded_1.0.0.zip",
+        "shasum": "07b6a60345b1674b616cbe2867676ecac2c73da0324ff32dc3095336f4b672a6"
+      }
+    },
+    {
       "name": "textures-aliyun-oss",
       "version": "2.0.6",
       "title": "阿里云对象存储 OSS",
