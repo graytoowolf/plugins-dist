@@ -139,6 +139,22 @@
       }
     },
     {
+      "name": "file-api",
+      "version": "1.0.0",
+      "title": "令牌获取基本信息",
+      "description": "令牌获取基本信息",
+      "author": "graywolf",
+      "require": {
+        "blessing-skin-server": "^5|^6",
+        "yggdrasil-api": "^5"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/file-api_1.0.0.zip",
+        "shasum": "09bebf93a3bb20b6598c9abd9111972cb120ed0bbec492ba7918c2c2198f1b6d"
+      }
+    },
+    {
       "name": "fix-v4-update",
       "version": "0.2.1",
       "title": "Fix v4 Update",
