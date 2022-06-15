@@ -12,7 +12,7 @@ pipeline {
     }
     stage('推送到 CODING') {
       steps {
-        sh "git push https://${PROJECT_TOKEN_GK}:${PROJECT_TOKEN}@e.coding.net/graytoowolf/plugins-dist.git HEAD:master"
+        sh "git push https://${PROJECT_TOKEN_GK}:${PROJECT_TOKEN}@e.coding.net/graytoowolf/graytoowolf/plugins-dist.git HEAD:master"
       }
     }
   }
