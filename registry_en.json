@@ -336,6 +336,21 @@
       }
     },
     {
+      "name": "login-log",
+      "version": "1.0.0",
+      "title": "记录用户登录时间",
+      "description": "记录用户登录时间",
+      "author": "graywolf",
+      "require": {
+        "blessing-skin-server": "^5|^6"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/login_log_1.0.0.zip",
+        "shasum": "18183aa53f8ef65f4e092fc8519ff746153831d6f57e4a845ab3aa621ae2731e"
+      }
+    },
+    {
       "name": "mojang-verification",
       "version": "1.13.2",
       "title": "Mojang Verification",
