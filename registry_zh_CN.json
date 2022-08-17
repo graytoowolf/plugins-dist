@@ -12,7 +12,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/204-for-unexisted-players_0.1.4.zip",
+        "url": "https://bs.mcpeau.com/plugins/204-for-unexisted-players_0.1.4.zip",
         "shasum": "c35455e80cf1ef6483dd7063d870f7cb329cb4de4a17d32644396b51eaae7b4c"
       }
     },
@@ -28,7 +28,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/authme-integration_2.4.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/authme-integration_2.4.3.zip",
         "shasum": "4f5cd66cc55be367e69c2b05b61d44e3c8c383da77ebd19c1ad4e866398df062"
       }
     },
@@ -43,7 +43,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/batch-import_4.1.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/batch-import_4.1.2.zip",
         "shasum": "7ddd516aa57aa78929db77df1237d1779b88c5e3a4bfcdd4c9a9cb474c792161"
       }
     },
@@ -73,7 +73,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/config-generator_3.2.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/config-generator_3.2.2.zip",
         "shasum": "4097af14dd9ee914419f933103ec6f815373591484065576dc0d147a9a443e39"
       }
     },
@@ -88,7 +88,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/disable-registration_1.0.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/disable-registration_1.0.3.zip",
         "shasum": "abe7174eaea4e988a417bc4f4bf3e444c24de54f132822bee0edc15667749889"
       }
     },
@@ -103,7 +103,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/embedded-comment_1.0.4.zip",
+        "url": "https://bs.mcpeau.com/plugins/embedded-comment_1.0.4.zip",
         "shasum": "3383f56b72fe302549732f939375551d7f2f601535eb356511498441bdd75997"
       }
     },
@@ -118,7 +118,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/eruda_1.0.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/eruda_1.0.0.zip",
         "shasum": "721836f5c669fc4080cfdb5d58abaf97a8be52c2017c58363c628aa035385483"
       }
     },
@@ -134,7 +134,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/fast-login_0.1.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/fast-login_0.1.3.zip",
         "shasum": "cf88ab720ef2da6aaf09bffee20febdc3e6834d84d0fb1bbffbd114635b79813"
       }
     },
@@ -150,7 +150,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/file-api_1.0.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/file-api_1.0.0.zip",
         "shasum": "4dfa9223a65706ab05ae83dfd44ce9b06971c67b77e3f38e1749215cd38c47d6"
       }
     },
@@ -165,7 +165,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/fix-v4-update_0.2.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/fix-v4-update_0.2.1.zip",
         "shasum": "bd6b1ea3a1d578c8beffaee076bbdf3dda252114368dfc3fae179dd7689f64ed"
       }
     },
@@ -181,7 +181,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/forum-integration_4.1.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/forum-integration_4.1.1.zip",
         "shasum": "f5b50de419b9955c89e619266f53b78dfdf6c0a8e4be1ee7bfd80c591c5c61b8"
       }
     },
@@ -196,7 +196,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/google-adsense_0.0.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/google-adsense_0.0.1.zip",
         "shasum": "c9e605467f9c47710a6590b22d4307209eaa693d7d624bd73f5ed6bd591511f2"
       }
     },
@@ -211,7 +211,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/gravatar_0.1.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/gravatar_0.1.3.zip",
         "shasum": "2dfc38395cf6557d36e1ec6e7b7bc3cb2eae53d0e3db8ffbedbbae518e87bc35"
       }
     },
@@ -226,7 +226,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/gtag-js_0.1.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/gtag-js_0.1.2.zip",
         "shasum": "d42f4e9809bfdfd18789a53df196284d4dbe8c94b369d853179cee9ff5f52a70"
       }
     },
@@ -241,7 +241,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hello-dolly_1.3.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/hello-dolly_1.3.0.zip",
         "shasum": "a8358343d104b9df96643b2f55812ea26b82eed468549366552dfb2dfeced3d6"
       }
     },
@@ -256,7 +256,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hide-advanced-menu_1.0.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/hide-advanced-menu_1.0.1.zip",
         "shasum": "ee6ca1eb247f20d9e4c6872d199ea633ac6850aa05da4752b7f6921d1f4b9f21"
       }
     },
@@ -271,7 +271,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/hitokoto_1.3.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/hitokoto_1.3.0.zip",
         "shasum": "2adbb14d71ef8687b19cc538df01f5392a6b1748cf22b30d3dcf2c2c82a25f6b"
       }
     },
@@ -286,7 +286,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insane-profile-cache_4.0.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/insane-profile-cache_4.0.3.zip",
         "shasum": "5f765bf3bc09c36433c03387110a0436b350a1baeb5995b74828d103a2f91484"
       }
     },
@@ -301,7 +301,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/insider_1.0.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/insider_1.0.2.zip",
         "shasum": "6b43f4df5addfc086be3af62b5fb12d65a811e1d4daf3f6f250a5d8a25904a46"
       }
     },
@@ -316,7 +316,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/invitation-codes_3.1.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/invitation-codes_3.1.2.zip",
         "shasum": "f9560e2d1163cf64570df827c8d03378972fad093d6d7aad5a55a291c1645a4f"
       }
     },
@@ -331,7 +331,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/legacy-api_1.1.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/legacy-api_1.1.3.zip",
         "shasum": "f3c851e7f033361925c025155d08b02651dc3699d5de26ad0dc69b6740f66fb3"
       }
     },
@@ -346,7 +346,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/login_log_1.0.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/login_log_1.0.0.zip",
         "shasum": "18183aa53f8ef65f4e092fc8519ff746153831d6f57e4a845ab3aa621ae2731e"
       }
     },
@@ -362,7 +362,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/mojang-verification_2.0.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/mojang-verification_2.0.0.zip",
         "shasum": "013c9344ff3a522cbb5a2d6e7d068b4876eab93c70839fe2323631138cf4cb99"
       }
     },
@@ -377,7 +377,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth_1.0.6.zip",
+        "url": "https://bs.mcpeau.com/plugins/oauth_1.0.6.zip",
         "shasum": "e2780842f9406eef4aa265fcbb26ca3369ee7d934796c0362542ca097d8a3414"
       }
     },
@@ -393,7 +393,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-github_0.2.5.zip",
+        "url": "https://bs.mcpeau.com/plugins/oauth-github_0.2.5.zip",
         "shasum": "9f9fd74565d94e14940cb80123ac9f105b5109dccaaa59b9c7ff4df7d44c9918"
       }
     },
@@ -409,7 +409,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-google_0.1.4.zip",
+        "url": "https://bs.mcpeau.com/plugins/oauth-google_0.1.4.zip",
         "shasum": "3af8f6f5eaa5af63aeed8bb1d93c43599d1782f7bdf6022f60768fe28396f437"
       }
     },
@@ -425,7 +425,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-littleskin_0.2.6.zip",
+        "url": "https://bs.mcpeau.com/plugins/oauth-littleskin_0.2.6.zip",
         "shasum": "af34e8de9587a733a8e6f7e0de2822081f5c47d4d99b9271dcd6219bd574c2a2"
       }
     },
@@ -441,7 +441,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/oauth-microsoft-live_0.2.6.zip",
+        "url": "https://bs.mcpeau.com/plugins/oauth-microsoft-live_0.2.6.zip",
         "shasum": "aea23c5f4294cf068a4f73c59f1402420c2ac291a7b276a9abda94efead310fe"
       }
     },
@@ -456,7 +456,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/password-algorithm-transition_2.2.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/password-algorithm-transition_2.2.1.zip",
         "shasum": "d80ace621393f0e21be22269818590c87187ce018d4aada8279b73ea44df5bfa"
       }
     },
@@ -471,7 +471,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/pray-for-kyoto-animation_1.0.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/pray-for-kyoto-animation_1.0.3.zip",
         "shasum": "c678392663fba7a24b17c2cc24a97d2c4fad2c1eec13ed1497d3c3c3558ead7f"
       }
     },
@@ -486,7 +486,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/predis_1.0.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/predis_1.0.1.zip",
         "shasum": "fa95b3b0b512987dc676bc01e19173f8274ab3c4ea9def82c4dbee3bf39a805f"
       }
     },
@@ -501,7 +501,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/purge-azure-global-cdn_1.1.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/purge-azure-global-cdn_1.1.2.zip",
         "shasum": "d089c75c0c72811b6e652d6f4faf4facf2cfd332bf7ff9a2605573748aa578d7"
       }
     },
@@ -516,7 +516,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/refresh-ali-cdn_1.0.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/refresh-ali-cdn_1.0.1.zip",
         "shasum": "5de9f1e99dd4c1cbb928fbd38bf1766511c9505a08e5d0f9153f842c519404a0"
       }
     },
@@ -531,7 +531,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/refresh-qcloud-cdn_2.1.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/refresh-qcloud-cdn_2.1.3.zip",
         "shasum": "c23332faa5690069981197e7590a8b4ad1a46a511f49272d80be6557900cfe87"
       }
     },
@@ -546,7 +546,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/remote-addr_0.1.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/remote-addr_0.1.1.zip",
         "shasum": "c9d89e26c01f6f8a7e2ebe6c3e09774a53e588f515b2e090cef779e36d302248"
       }
     },
@@ -561,7 +561,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/restricted-email-domains_0.3.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/restricted-email-domains_0.3.0.zip",
         "shasum": "5c4127426207296b7f467a832146d2d6e1750b98bd83363a462d7e5c00584be6"
       }
     },
@@ -576,7 +576,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/share-registration-link_2.0.2.zip",
+        "url": "https://bs.mcpeau.com/plugins/share-registration-link_2.0.2.zip",
         "shasum": "8b439b792d57a6cd412152ebc3ef01114fa7053f2a6c02a64da3834970df9d5f"
       }
     },
@@ -591,7 +591,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/single-player-limit_3.0.4.zip",
+        "url": "https://bs.mcpeau.com/plugins/single-player-limit_3.0.4.zip",
         "shasum": "2e088e9356d3187e302e61216b610ce7d3e4dcef46f422d8e9102625c6a92d12"
       }
     },
@@ -606,7 +606,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-description_1.3.1.zip",
+        "url": "https://bs.mcpeau.com/plugins/texture-description_1.3.1.zip",
         "shasum": "39db156666ffdcd6ecd2b37b5ba684774e3e7ccf0637664e114fdccce610683d"
       }
     },
@@ -621,7 +621,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/texture-type-cast_0.4.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/texture-type-cast_0.4.0.zip",
         "shasum": "dabc31d2ba34f18f85086bbf9ae60f87e39201282524e50d4d3bc704ed077b4c"
       }
     },
@@ -636,7 +636,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://graytoowolf.coding.net/p/graytoowolf/d/plugins-dist/git/raw/master/texture-uploaded_1.0.0.zip",
+        "url": "https://bs.mcpeau.com/plugins/texture-uploaded_1.0.0.zip",
         "shasum": "07b6a60345b1674b616cbe2867676ecac2c73da0324ff32dc3095336f4b672a6"
       }
     },
@@ -651,7 +651,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-aliyun-oss_2.0.6.zip",
+        "url": "https://bs.mcpeau.com/plugins/textures-aliyun-oss_2.0.6.zip",
         "shasum": "12984fd4bcfd9d9e8c1ff88b9ac6f704a175443f8c6f68b85379538bc7ba26b2"
       }
     },
@@ -666,7 +666,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-qcloud-cos_2.0.5.zip",
+        "url": "https://bs.mcpeau.com/plugins/textures-qcloud-cos_2.0.5.zip",
         "shasum": "bf1409dfb0b350acaf85fd4a6aaa9c724cf1a340d99b92c924c1c33a85497ad0"
       }
     },
@@ -681,7 +681,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/textures-qiniu-storage_2.0.5.zip",
+        "url": "https://bs.mcpeau.com/plugins/textures-qiniu-storage_2.0.5.zip",
         "shasum": "ef8792e456eebb0f335430733d5cf798870e8117532dbeb71821ffa822d6d5d6"
       }
     },
@@ -696,7 +696,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/trust-proxies_0.1.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/trust-proxies_0.1.3.zip",
         "shasum": "8220d36b4095cbef094037de4a488f798bead12e81fe0426ec985980c42c9d8f"
       }
     },
@@ -711,7 +711,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/usm-api_1.2.3.zip",
+        "url": "https://bs.mcpeau.com/plugins/usm-api_1.2.3.zip",
         "shasum": "4e8866efdedb1759100d9b356c2b5e19b5d0d425f1fa11a7afa32f2fd7b30757"
       }
     },
@@ -726,7 +726,7 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://gplane.coding.net/p/blessing-skin-plugins-dist/d/blessing-skin-plugins-dist/git/raw/master/yggdrasil-api_5.1.6.zip",
+        "url": "https://bs.mcpeau.com/plugins/yggdrasil-api_5.1.6.zip",
         "shasum": "4a9bd0ac7156e25b51b45afcfe2002bc90ca1bf828c69230eac3098a74f900aa"
       }
     }
