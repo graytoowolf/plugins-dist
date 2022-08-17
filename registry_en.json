@@ -49,7 +49,7 @@
     },
     {
       "name": "bing-api",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "title": "获取bing今日美图",
       "description": "获取bing今日美图",
       "author": "graywolf",
@@ -58,8 +58,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/bing-api_1.0.1.zip",
-        "shasum": "70bab8ae8e314a2618b0796a3b9a27569d78d36432844cf9c417fb6e88a2f05e"
+        "url": "https://bs.mcpeau.com/plugins/bing-api_1.0.2.zip",
+        "shasum": "04eccffce8f79ccf1771422fd5568e6d9f756af83af86adad5c20408236d3437"
       }
     },
     {
