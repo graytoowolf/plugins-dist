@@ -447,9 +447,9 @@
     },
     {
       "name": "oauth-qq",
-      "version": "0.0.1",
-      "title": "Log In with Microsoft Live",
-      "description": "Log in skin server with Microsoft Live.",
+      "version": "0.0.2",
+      "title": "Log In with QQ",
+      "description": "Log in skin server with QQ.",
       "author": "graywolf",
       "require": {
         "blessing-skin-server": "^5|^6",
@@ -457,8 +457,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/oauth-qq_0.0.1.zip",
-        "shasum": "98f0df42f19e317e144fb20a294749ae72a4dc49fa748119c996d41a96cfa43c"
+        "url": "https://bs.mcpeau.com/plugins/oauth-qq_0.0.2.zip",
+        "shasum": "63d0011c10705d20c657f2d5aa7e78d2b3e217f6f7e4e5a936684425d256856b"
       }
     },
     {
