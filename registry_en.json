@@ -613,7 +613,7 @@
     },
     {
       "name": "texture-description",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "title": "Texture Description",
       "description": "Allow users to add description for texture.",
       "author": "Steven Qiu & GPlane",
@@ -622,8 +622,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/texture-description_1.3.2.zip",
-        "shasum": "259e68687622af3baa5b86f72e616413f748b5f24f028b8fe828125254888bd0"
+        "url": "https://bs.mcpeau.com/plugins/texture-description_1.3.3.zip",
+        "shasum": "4499324bfaab7fa929875ebed109d039eb08574de939a482eb3860204473ce1d"
       }
     },
     {
