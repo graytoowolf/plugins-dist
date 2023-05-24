@@ -673,7 +673,7 @@
     },
     {
       "name": "textures-qcloud-cos",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "title": "腾讯云对象存储 COS",
       "description": "将用户上传的材质存储文件至腾讯云 COS 中。仅支持 COS v5。",
       "author": "printempw",
@@ -682,8 +682,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/textures-qcloud-cos_2.0.5.zip",
-        "shasum": "bf1409dfb0b350acaf85fd4a6aaa9c724cf1a340d99b92c924c1c33a85497ad0"
+        "url": "https://bs.mcpeau.com/plugins/textures-qcloud-cos_2.0.6.zip",
+        "shasum": "76f74d61d28d6b50e43b19316bc81ed1c762537e466ba2cf63c9d4aa641682f0"
       }
     },
     {
