@@ -733,7 +733,7 @@
     },
     {
       "name": "yggdrasil-api",
-      "version": "5.2.1",
+      "version": "5.2.3",
       "title": "Yggdrasil API",
       "description": "Yggdrasil API + authlib-injector = ✨",
       "author": "printempw",
@@ -742,8 +742,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/yggdrasil-api_5.2.1.zip",
-        "shasum": "4c8a821b0c8b5e093d25097dd1dd4a168c045a8272b518f2bd1057f61d4fd96b"
+        "url": "https://bs.mcpeau.com/plugins/yggdrasil-api_5.2.3.zip",
+        "shasum": "052f53ecf3fc29f3666b9814c4477994eb4dcc9929b154de95ecee8c9919b6df"
       }
     }
   ]
