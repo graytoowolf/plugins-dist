@@ -49,7 +49,7 @@
     },
     {
       "name": "bing-api",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "title": "获取bing今日美图",
       "description": "获取bing今日美图",
       "author": "graywolf",
@@ -58,8 +58,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/bing-api_1.0.2.zip",
-        "shasum": "04eccffce8f79ccf1771422fd5568e6d9f756af83af86adad5c20408236d3437"
+        "url": "https://bs.mcpeau.com/plugins/bing-api_1.0.3.zip",
+        "shasum": "17f1c6256f178554620fbfa2db5e845208cc1201b12ea3a5af1ebf0cb00ca391"
       }
     },
     {
@@ -463,17 +463,18 @@
     },
     {
       "name": "passkey-auth",
-      "version": "1.0.0",
+      "version": "1.0.3",
       "title": "通行密钥",
       "description": "通过 WebAuthn/Passkey 实现无密码登录和多设备认证管理",
       "author": "graywolf",
       "require": {
-        "blessing-skin-server": "^6"
+        "blessing-skin-server": "^5|^6",
+        "oauth": "^1.0.0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.0.zip",
-        "shasum": "65ecfa88072014366665a974da821b0fe0b36a8e047c5ea05a3331bff75a54bb"
+        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.3.zip",
+        "shasum": "2a5be14bb78d070e7751b4f260c724de45c7e49697f7efdeeec65ff8f2299a38"
       }
     },
     {
