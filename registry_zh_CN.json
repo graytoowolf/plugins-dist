@@ -368,7 +368,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "title": "OAuth 客户端核心",
       "description": "OAuth 客户端核心插件",
       "author": "GPlane",
@@ -377,8 +377,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/oauth_1.0.6.zip",
-        "shasum": "e2780842f9406eef4aa265fcbb26ca3369ee7d934796c0362542ca097d8a3414"
+        "url": "https://bs.mcpeau.com/plugins/oauth_1.0.7.zip",
+        "shasum": "6a22f00ccdc5ac6b5686a3a84519a16ebc8914f762db59d37ac50dc70a6b58d4"
       }
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "name": "passkey-auth",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "title": "通行密钥",
       "description": "通过 WebAuthn/Passkey 实现无密码登录和多设备认证管理",
       "author": "graywolf",
@@ -473,8 +473,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.4.zip",
-        "shasum": "a571e9e331599d12d98f96f390ad252531a79f4fbdde228e85508e40de8e1fed"
+        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.5.zip",
+        "shasum": "751ebc2fbfcc02c73714c780a7dc15f9d729bc6679f582017551d117c374f04d"
       }
     },
     {
