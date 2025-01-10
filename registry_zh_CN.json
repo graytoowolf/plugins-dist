@@ -463,7 +463,7 @@
     },
     {
       "name": "passkey-auth",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "title": "通行密钥",
       "description": "通过 WebAuthn/Passkey 实现无密码登录和多设备认证管理",
       "author": "graywolf",
@@ -473,8 +473,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.6.zip",
-        "shasum": "1398dbdfbb3793ea8743f668b99972795f2b79df8d64f7cbcaf930ca60768c3d"
+        "url": "https://bs.mcpeau.com/plugins/passkey-auth_1.0.7.zip",
+        "shasum": "7e05c050f05044f82f6a347dd1e8365b32a1036bc7b8ba1e68563737d97892ed"
       }
     },
     {
