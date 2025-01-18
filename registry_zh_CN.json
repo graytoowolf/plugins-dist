@@ -17,6 +17,21 @@
       }
     },
     {
+      "name": "api-auth",
+      "version": "1.0.75",
+      "title": "API 密钥认证",
+      "description": "为 API 请求添加密钥认证功能",
+      "author": "Your Name",
+      "require": {
+        "blessing-skin-server": "^5|^6"
+      },
+      "dist": {
+        "type": "zip",
+        "url": "https://bs.mcpeau.com/plugins/api-auth_1.0.75.zip",
+        "shasum": "f2389a68cb468bd490b58d1fb6b86c94d87c76b0612fd22b39a7686818a4df21"
+      }
+    },
+    {
       "name": "authme-integration",
       "version": "2.4.3",
       "title": "Authme 数据对接",
