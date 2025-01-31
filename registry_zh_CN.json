@@ -383,7 +383,7 @@
     },
     {
       "name": "oauth",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "title": "OAuth 客户端核心",
       "description": "OAuth 客户端核心插件",
       "author": "GPlane",
@@ -392,8 +392,8 @@
       },
       "dist": {
         "type": "zip",
-        "url": "https://bs.mcpeau.com/plugins/oauth_1.0.7.zip",
-        "shasum": "6a22f00ccdc5ac6b5686a3a84519a16ebc8914f762db59d37ac50dc70a6b58d4"
+        "url": "https://bs.mcpeau.com/plugins/oauth_1.0.8.zip",
+        "shasum": "82c8131ff45f2b264e37f5a61e8111e58de1c4e2e3ffe344c6e06d1a4a3ce682"
       }
     },
     {
